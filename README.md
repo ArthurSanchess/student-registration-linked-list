@@ -17,3 +17,4 @@ Academic project developed in C#.
 
 ## Author
 Arthur Sanches
+Pedro José
