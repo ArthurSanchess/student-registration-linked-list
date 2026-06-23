@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Trabalho Anker 10.04.2026/1.0.0": {
+        "runtime": {
+          "Trabalho Anker 10.04.2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho Anker 10.04.2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.AssemblyInfoInputs.cache
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.AssemblyInfo.cs
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.csproj.CoreCompileInputs.cache
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.exe
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.deps.json
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.runtimeconfig.json
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.pdb
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\refint\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.pdb
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.genruntimeconfig.cache
+E:\Trabalho Anker 10.04.2026\Trabalho Anker 10.04.2026\obj\Debug\net10.0\ref\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.exe
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.deps.json
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.runtimeconfig.json
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\bin\Debug\net10.0\Trabalho Anker 10.04.2026.pdb
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.AssemblyInfoInputs.cache
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.AssemblyInfo.cs
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.csproj.CoreCompileInputs.cache
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\refint\Trabalho Anker 10.04.2026.dll
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.pdb
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\Trabalho Anker 10.04.2026.genruntimeconfig.cache
+E:\Trabalho Anker 10.04.2026 - Copia\Trabalho Anker 10.04.2026\obj\Debug\net10.0\ref\Trabalho Anker 10.04.2026.dll
